@@ -14,3 +14,5 @@ In this project, we analyze a dataset of used cars from Craigslist, obtained fro
 - Scikit-learn
 - Matplotlib
 
+## HTML File
+file:///Users/marwa/Downloads/CarPrice.html
