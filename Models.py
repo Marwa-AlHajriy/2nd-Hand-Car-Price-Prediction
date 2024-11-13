@@ -1,6 +1,3 @@
-
-
-
 def find_best_model_using_gridsearchcv(X, y):
     algorithms = {
         'linear_regression': {
