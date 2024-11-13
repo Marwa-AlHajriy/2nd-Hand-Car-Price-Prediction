@@ -1,5 +1,3 @@
-
-
 def data_cleaning(data):
     
     # Drop irrelevant features
