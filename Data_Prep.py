@@ -84,7 +84,7 @@ def data_cleaning(data):
     
 
 
-    return  x_nonvintage_train, x_nonvintage_test,y_nonvintage_train, y_nonvintage_test, x_vintage_train, x_vintage_test,y_vintage_train, y_vintage_test
+    return  x_nonvintage_train, x_nonvintage_test,y_nonvintage_train, y_nonvintage_test, x_vintage_train, x_vintage_test,y_vintage_train, y_vintage_test                         
 
 
 
