@@ -55,6 +55,5 @@ def find_best_model_using_gridsearchcv(X, y):
 
     return pd.DataFrame(scores)
 
-# Call the function
 results = find_best_model_using_gridsearchcv(x_nonvintage, y_nonvintage)
 results
